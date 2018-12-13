@@ -3,8 +3,9 @@ package com.algorithm.offerday;
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class LinkedListChange2ArrayList {
+public class PrintListFromTailToHead {
 
+    //03. 从尾到头打印链表
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         Stack<Integer> stack = new Stack<>();
         while (null != listNode) {
@@ -17,13 +18,14 @@ public class LinkedListChange2ArrayList {
         }
         return list;
     }
-}
 
-class ListNode {
-    int val;
-    ListNode next = null;
+    class ListNode {
+        int val;
+        ListNode next = null;
 
-    ListNode(int val) {
-        this.val = val;
+        ListNode(int val) {
+            this.val = val;
+        }
     }
 }
+

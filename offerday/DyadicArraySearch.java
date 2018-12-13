@@ -2,7 +2,7 @@ package com.algorithm.offerday;
 
 public class DyadicArraySearch {
 
-    /*
+    /* 01.二维数组中的查找
         从题目上来看，易知突破点应该在右（左）上角，作为本行（列）最大的数
         目标数target > 角落的数，则该往下（右）移动，反之则反方向，然后递归
      */

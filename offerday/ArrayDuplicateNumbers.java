@@ -1,7 +1,7 @@
 package com.algorithm.offerday;
 
 public class ArrayDuplicateNumbers {
-
+    //
     // Parameters:
     //    numbers:     an array of integers
     //    length:      the length of array numbers
