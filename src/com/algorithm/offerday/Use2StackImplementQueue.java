@@ -2,7 +2,7 @@ package com.algorithm.offerday;
 
 import java.util.Stack;
 
-public class User2StackImplementQueue {
+public class Use2StackImplementQueue {
     Stack<Integer> stack1 = new Stack<Integer>();
     Stack<Integer> stack2 = new Stack<Integer>();
     //05.两个栈来实现一个队列

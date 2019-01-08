@@ -12,7 +12,7 @@ public class HasSubtree {
     public boolean HasSubtree(TreeNode root1,TreeNode root2) {
         boolean isSub = false;
 
-        if (root1 != null || root2 != null) {
+        if (root1 != null && root2 != null) {
             if (root1.val == root2.val) {
                 isSub = isSubTree(root1, root2);
             }
