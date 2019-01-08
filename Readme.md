@@ -17,9 +17,9 @@
 |15| 代码的鲁棒性 | [反转链表](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/ReverseList.java)
 |16| 代码的鲁棒性 | [合并两个排序的链表](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Merge2List.java)
 |17| 代码的鲁棒性 | [树的子结构](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/HasSubtree.java)
-|18| 面试思路	| [二叉树的镜像]()
-|19| 画图让抽象形象化  | [顺时针打印矩阵]()
-|20| 举例让抽象具体化  |                 包含min函数的栈	30.88%	题解
+|18| 面试思路	| [二叉树的镜像](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Mirror.java)
+|19| 画图让抽象形象化  | [顺时针打印矩阵](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/PrintMatrix.java)
+|20| 举例让抽象具体化  | [包含min函数的栈]()
 |21| 举例让抽象具体化  |                 栈的压入、弹出序列	28.30%	题解
 |22| 举例让抽象具体化  |                 从上往下打印二叉树	26.19%	题解
 |23| 举例让抽象具体化  |                 二叉搜索树的后序遍历序列	23.30%	题解
