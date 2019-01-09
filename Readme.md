@@ -19,13 +19,13 @@
 |17| 代码的鲁棒性 | [树的子结构](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/HasSubtree.java)
 |18| 面试思路	| [二叉树的镜像](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Mirror.java)
 |19| 画图让抽象形象化  | [顺时针打印矩阵](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/PrintMatrix.java)
-|20| 举例让抽象具体化  | [包含min函数的栈]()
-|21| 举例让抽象具体化  |                 栈的压入、弹出序列	28.30%	题解
-|22| 举例让抽象具体化  |                 从上往下打印二叉树	26.19%	题解
-|23| 举例让抽象具体化  |                 二叉搜索树的后序遍历序列	23.30%	题解
-|24| 举例让抽象具体化  |                 二叉树中和为某一值的路径	25.76%	题解
-|25| 分解让复杂问题简单 |                 | 复杂链表的复制	20.58%	题解
-|26| 分解让复杂问题简单 |                 | 二叉搜索树与双向链表	27.34%	题解
+|20| 举例让抽象具体化  | [包含min函数的栈](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/SearchMinNumInStack.java)
+|21| 举例让抽象具体化  | [栈的压入、弹出序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/IsPopOrder.java)
+|22| 举例让抽象具体化  | [从上往下打印二叉树](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/PrintFromTopToBottom.java)
+|23| 举例让抽象具体化  | [二叉搜索树的后序遍历序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/VerifySquenceOfBST.java)
+|24| 举例让抽象具体化  | [二叉树中和为某一值的路径]()
+|25| 分解让复杂问题简单 | [复杂链表的复制]()
+|26| 分解让复杂问题简单 | [二叉搜索树与双向链表]()
 |27| 分解让复杂问题简单 |                 | 字符串的排列	19.59%	题解
 |28| 时间效率	 |                       数组中出现次数超过一半的数字	26.49%	题解
 |29| 时间效率	 |                       最小的K个数	21.10%	题解
