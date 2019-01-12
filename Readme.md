@@ -23,8 +23,8 @@
 |21| 举例让抽象具体化  | [栈的压入、弹出序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/IsPopOrder.java)
 |22| 举例让抽象具体化  | [从上往下打印二叉树](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/PrintFromTopToBottom.java)
 |23| 举例让抽象具体化  | [二叉搜索树的后序遍历序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/VerifySquenceOfBST.java)
-|24| 举例让抽象具体化  | [二叉树中和为某一值的路径]()
-|25| 分解让复杂问题简单 | [复杂链表的复制]()
+|24| 举例让抽象具体化  | [二叉树中和为某一值的路径](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindPath.java)
+|25| 分解让复杂问题简单 | [复杂链表的复制](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/RandomListNode.java)
 |26| 分解让复杂问题简单 | [二叉搜索树与双向链表]()
 |27| 分解让复杂问题简单 |                 | 字符串的排列	19.59%	题解
 |28| 时间效率	 |                       数组中出现次数超过一半的数字	26.49%	题解
