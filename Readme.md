@@ -1,12 +1,12 @@
 |序号 | 考点| 题目 |
-|---|---|---|
+|----|-----|-----|
 |1 | 数组 | [二维数组中的查找](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/DyadicArraySearch.java)
 |2 | 字符串 | [替换空格](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/StringReplaceSpace.java)
 |3 | 链表 | [从尾到头打印链表](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/PrintListFromTailToHead.java)
 |4 | 树 | [重建二叉树](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/ReConstructBinaryTree.java)
 |5 | 栈和队列 | [用两个栈实现队列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Use2StackImplementQueue.java)
 |6 | 查找和排序 | [旋转数组的最小数字](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/MinNumberInRotateArray.java)
-|7 | 递归和循环 | [波那契数列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Fibonacci.java)
+|7 | 递归和循环 | [斐波那契数列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Fibonacci.java)
 |8 | 递归和循环 | [跳台阶](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/JumpFloor.java)
 |9 | 递归和循环 | [变态跳台阶](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/JumpFloor.java)
 |10| 递归和循环 | [矩形覆盖](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/RectCover.java)
@@ -25,12 +25,12 @@
 |23| 举例让抽象具体化  | [二叉搜索树的后序遍历序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/VerifySquenceOfBST.java)
 |24| 举例让抽象具体化  | [二叉树中和为某一值的路径](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindPath.java)
 |25| 分解让复杂问题简单 | [复杂链表的复制](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/RandomListNode.java)
-|26| 分解让复杂问题简单 | [二叉搜索树与双向链表]()
-|27| 分解让复杂问题简单 |                 | 字符串的排列	19.59%	题解
-|28| 时间效率	 |                       数组中出现次数超过一半的数字	26.49%	题解
-|29| 时间效率	 |                       最小的K个数	21.10%	题解
-|30| 时间效率	 |                       连续子数组的最大和	34.78%	题解
-|31| 时间效率	 |                       整数中1出现的次数（从1到n整数中1出现的次数）	32.38%	题解
+|26| 分解让复杂问题简单 | [二叉搜索树与双向链表](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Convert.java)
+|27| 分解让复杂问题简单 | [字符串的排列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Permutation.java)
+|28| 时间效率	 | [数组中出现次数超过一半的数字](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/MoreThanHalfNum_Solution.java)
+|29| 时间效率	 |                       最小的K个数
+|30| 时间效率	 |                       连续子数组的最大和
+|31| 时间效率	 | [整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/)
 |32| 时间效率	 |                           把数组排成最小的数	26.17%	题解
 |33| 时间空间效率的平衡 |丑数	21.12%	题解
 |34| 时间空间效率的平衡 |第一个只出现一次的字符位置	24.96%	题解
