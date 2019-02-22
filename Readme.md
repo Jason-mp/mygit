@@ -28,15 +28,15 @@
 |26| 分解让复杂问题简单 | [二叉搜索树与双向链表](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Convert.java)
 |27| 分解让复杂问题简单 | [字符串的排列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Permutation.java)
 |28| 时间效率	 | [数组中出现次数超过一半的数字](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/MoreThanHalfNum_Solution.java)
-|29| 时间效率	 |                       最小的K个数
-|30| 时间效率	 |                       连续子数组的最大和
-|31| 时间效率	 | [整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/)
-|32| 时间效率	 |                           把数组排成最小的数	26.17%	题解
-|33| 时间空间效率的平衡 |丑数	21.12%	题解
-|34| 时间空间效率的平衡 |第一个只出现一次的字符位置	24.96%	题解
-|35| 时间空间效率的平衡 |数组中的逆序对	14.94%	题解
-|36| 时间空间效率的平衡 |两个链表的第一个公共结点	31.81%	题解
-|37| 知识迁移能力 | 	数字在排序数组中出现的次数	29.24%	题解
+|29| 时间效率	 | [最小的K个数](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/GetLeastNumbers.java)
+|30| 时间效率	 | [连续子数组的最大和](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindGreatestSumOfSubArray.java)
+|31| 时间效率	 | [整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/NumberOf1Between1AndN.java)
+|32| 时间效率	 | [把数组排成最小的数](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/PrintMinNumber.java)
+|33| 时间空间效率的平衡 | [丑数](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/GetUglyNumber.java)
+|34| 时间空间效率的平衡 | [第一个只出现一次的字符位置](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FirstNotRepeatingChar.java)
+|35| 时间空间效率的平衡 | [数组中的逆序对](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/InversePairs.java)
+|36| 时间空间效率的平衡 | [两个链表的第一个公共结点](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindFirstCommonNode.java)
+|37| 知识迁移能力 | [数字在排序数组中出现的次数]()
 |38| 知识迁移能力 | 	二叉树的深度	46.85%	题解
 |39| 知识迁移能力 | 	平衡二叉树	33.42%	题解
 |40| 知识迁移能力 | 	数组中只出现一次的数字	28.42%	题解
