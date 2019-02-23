@@ -6,8 +6,8 @@ package com.algorithm.offerday;
  */
 public class InversePairs {
 
+    final int p = 1000000007;
     public int InversePairs(int[] array) {
-        int p = 1000000007;
 
         int[] temp = new int[array.length];
         for (int i = 0; i < array.length; i++) {
@@ -22,8 +22,8 @@ public class InversePairs {
             return 0;
         }
         int mid = (high + low) / 2;
-        int leftCount = sort(a, temp, low, mid) % 1000000007;
-        int rightCount = sort(a, temp, mid + 1, high) % 1000000007;
+        int leftCount = sort(a, temp, low, mid) % p;
+        int rightCount = sort(a, temp, mid + 1, high) % p;
 
         int count = 0;
         int i = mid;
@@ -33,8 +33,8 @@ public class InversePairs {
             if (a[i] > a[j]) {
                 count += j - mid;
                 temp[tempIndex--] = a[i--];
-                if (count >= 1000000007) {
-                    count %= 1000000007;
+                if (count >= p) {
+                    count %= p;
                 }
             } else {
                 temp[tempIndex--] = a[i--];
@@ -49,6 +49,6 @@ public class InversePairs {
         for (int s = low; s <= high; s++) {
             a[s] = temp[s];
         }
-        return (leftCount + rightCount + count) % 1000000007;
+        return (leftCount + rightCount + count) % p;
     }
 }

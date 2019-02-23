@@ -36,16 +36,16 @@
 |34| 时间空间效率的平衡 | [第一个只出现一次的字符位置](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FirstNotRepeatingChar.java)
 |35| 时间空间效率的平衡 | [数组中的逆序对](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/InversePairs.java)
 |36| 时间空间效率的平衡 | [两个链表的第一个公共结点](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindFirstCommonNode.java)
-|37| 知识迁移能力 | [数字在排序数组中出现的次数]()
-|38| 知识迁移能力 | 	二叉树的深度	46.85%	题解
-|39| 知识迁移能力 | 	平衡二叉树	33.42%	题解
-|40| 知识迁移能力 | 	数组中只出现一次的数字	28.42%	题解
-|41| 知识迁移能力 | 	和为S的连续正数序列	26.03%	题解
-|42| 知识迁移能力 | 	和为S的两个数字	28.42%	题解
-|43| 知识迁移能力 | 	左旋转字符串	30.07%	题解
-|44| 知识迁移能力 | 	翻转单词顺序列	18.68%	题解
-|45| 抽象建模能力 | 	扑克牌顺子	24.95%	题解
-|46| 抽象建模能力 | 	孩子们的游戏(圆圈中最后剩下的数)	29.37%	题解
+|37| 知识迁移能力 | [数字在排序数组中出现的次数](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/GetNumberOfK.java)
+|38| 知识迁移能力 | [二叉树的深度](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/TreeDepth.java)
+|39| 知识迁移能力 | [平衡二叉树](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/IsBalanced.java)
+|40| 知识迁移能力 | [数组中只出现一次的数字](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindNumsAppearOnce.java)
+|41| 知识迁移能力 | [和为S的连续正数序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindContinuousSequence.java)
+|42| 知识迁移能力 | [和为S的两个数字](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindNumbersWithSum.java)
+|43| 知识迁移能力 | [左旋转字符串](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/LeftRotateString.java)
+|44| 知识迁移能力 | [翻转单词顺序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/ReverseSentence.java)
+|45| 抽象建模能力 | [扑克牌顺子](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/)
+|46| 抽象建模能力 | [孩子们的游戏(圆圈中最后剩下的数)]()
 |47| 发散思维能力 | 	求1+2+3+…+n	37.49%	题解
 |48| 发散思维能力 | 	不用加减乘除做加法	44.85%	题解
 |49| 综合 |	        把字符串转换成整数	25.82%	题解
