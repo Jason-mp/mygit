@@ -20,4 +20,9 @@ public class ReverseList {
         }
         return pre;
     }
+
+    public static void main(String[] args) {
+        StringBuilder sb =new StringBuilder("naannnasd");
+        System.out.println(sb.reverse());
+    }
 }

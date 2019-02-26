@@ -44,15 +44,15 @@
 |42| 知识迁移能力 | [和为S的两个数字](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/FindNumbersWithSum.java)
 |43| 知识迁移能力 | [左旋转字符串](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/LeftRotateString.java)
 |44| 知识迁移能力 | [翻转单词顺序列](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/ReverseSentence.java)
-|45| 抽象建模能力 | [扑克牌顺子](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/)
-|46| 抽象建模能力 | [孩子们的游戏(圆圈中最后剩下的数)]()
-|47| 发散思维能力 | 	求1+2+3+…+n	37.49%	题解
-|48| 发散思维能力 | 	不用加减乘除做加法	44.85%	题解
-|49| 综合 |	        把字符串转换成整数	25.82%	题解
-|50| 数组 |	        数组中重复的数字	28.00%	题解
-|51| 数组 |	        构建乘积数组	38.26%	题解
-|52| 字符串 |       	正则表达式匹配	19.26%	题解
-|53| 字符串 |       	表示数值的字符串	26.12%	题解
+|45| 抽象建模能力 | [扑克牌顺子](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/IsContinuous.java)
+|46| 抽象建模能力 | [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/LastRemaining.java)
+|47| 发散思维能力 | [求1+2+3+…+n](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Sum.java)
+|48| 发散思维能力 | [不用加减乘除做加法](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Add.java)
+|49| 综合 | [把字符串转换成整数](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/StrToInt.java)
+|50| 数组 | [数组中重复的数字](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/Duplicate.java)
+|51| 数组 | [构建乘积数组](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/)
+|52| 字符串 | [正则表达式匹配](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/)
+|53| 字符串 | [表示数值的字符串](https://github.com/xpgreat/mygit/blob/master/src/com/algorithm/offerday/)
 |54| 字符串 |       	字符流中第一个不重复的字符	30.70%	题解
 |55| 链表 |	        链表中环的入口结点	30.19%	题解
 |56| 链表 |	        删除链表中重复的结点	18.96%	题解
