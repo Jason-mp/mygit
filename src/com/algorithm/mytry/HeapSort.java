@@ -1,11 +1,23 @@
 package com.algorithm.mytry;
 
+import java.util.PriorityQueue;
+
 public class HeapSort {
     public static void main(String[] args) {
         int[] arr = {10, 7, 2, 4, 7, 62, 3, 4, 2, 1, 8, 9, 19};
-        heapSort(arr);
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i]);
+//        heapSort(arr);
+//        for (int i = 0; i < arr.length; i++) {
+//            System.out.print(arr[i]);
+//            System.out.print("  ");
+//        }
+        System.out.println("========");
+        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        for (int i:arr){
+            queue.offer(i);
+        }
+
+        for (int k:queue){
+            System.out.print(k);
             System.out.print("  ");
         }
     }

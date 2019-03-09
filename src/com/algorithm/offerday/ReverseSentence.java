@@ -27,9 +27,29 @@ public class ReverseSentence {
         return o.toString();
     }
 
+    public static String ReverseSentenceOnly(String str) {
+
+        if (str.trim().equals("")) {
+            return str;
+        }
+        char[] a = str.toCharArray();
+        StringBuilder sb = new StringBuilder();
+        int len = a.length;
+        for (int i=0;i<len/2+1;i++){
+            char temp = a[i];
+            a[i] = a[len-1-i];
+            a[len-1-i] = temp;
+        }
+        for (char c :a){
+            sb.append(c);
+        }
+        System.out.println(sb.toString());
+        return sb.toString();
+    }
+
     public static void main(String[] args) {
         String s = " student. a am  I ";
-        String a = ReverseSentence(s);
+        String a = ReverseSentenceOnly(s);
         System.out.println(a);
     }
 }

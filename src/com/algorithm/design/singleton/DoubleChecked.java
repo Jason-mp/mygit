@@ -1,11 +1,13 @@
 package com.algorithm.design.singleton;
 
 
+import java.io.Serializable;
+
 /**
  * @Author xp
  * @Date: 2019-01-12
  */
-public class DoubleChecked {
+public class DoubleChecked implements Serializable,Cloneable {
     private static volatile DoubleChecked instance;
 
     private DoubleChecked(){}
@@ -21,4 +23,12 @@ public class DoubleChecked {
         return instance;
     }
 
+    public Object readResolve(){
+        return instance;
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
 }

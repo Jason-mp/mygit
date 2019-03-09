@@ -44,7 +44,7 @@ public class Permutation {
     }
 
 
-    public void swap(char[] cs, int i, int j) {
+    public static void swap(char[] cs, int i, int j) {
         char temp = cs[i];
         cs[i] = cs[j];
         cs[j] = temp;
@@ -52,7 +52,34 @@ public class Permutation {
 
     public static void main(String[] args) {
         Permutation p = new Permutation();
-        System.out.println(p.Permutation("bac").toString());
+        Permutation2("bac");
+    }
+
+
+    public static void Permutation2(String s){
+        ArrayList<String> list = new ArrayList<>();
+        PermutationHelp2(s.toCharArray(),0,list);
+        Collections.sort(list);
+        for (String l:list){
+            System.out.println(l);
+        }
+
+    }
+
+    public static void PermutationHelp2(char[] s,int i,ArrayList<String> res){
+        if (i==s.length-1){
+            if (!res.contains(new String(s))){
+                res.add(new String(s));
+                return;
+            }
+        }else {
+            for(int j=i;j<s.length;j++){
+                swap(s,i,j);
+                PermutationHelp2(s,i+1,res);
+                swap(s,i,j);
+            }
+        }
+
     }
 
 
